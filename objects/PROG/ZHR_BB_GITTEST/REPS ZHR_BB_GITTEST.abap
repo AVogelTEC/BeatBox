@@ -6,3 +6,4 @@
 REPORT zhr_bb_gittest.
 
 WRITE: 'Hello git!'.
+WRITE: 'Hello git!'.
